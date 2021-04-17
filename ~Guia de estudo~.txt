@@ -1,0 +1,22 @@
+~~ Fundamentos Orientação a objeto
+
+polimorfismo
+Herança
+Abstração
+
+
+~~ Tipos abstratos de dados 
+
+Classes
+
+
+~~ Solid ~~ S.O.L.I.D
+
+
+~~ TDD
+
+
+~~ Clean Code  ~~  Codigo Limpo
+
+
+
